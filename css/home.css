@@ -1,0 +1,53 @@
+div .container {
+	width: 98%;
+	margin: 1%;
+}
+
+table {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 900px;
+}
+
+tr, td {
+	text-align: left;
+	vertical-align: top;
+}
+
+footer {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+footer {
+	clear: both;
+	padding: .5em;
+	color: rgb(127,127,127);
+}
+
+footer div.footer-left {
+	text-align: left;
+	float: left;
+}
+
+footer div.footer-right {
+	text-align: right;
+	float: right;
+}
+
+/*div .tablerow {
+	display: table-row;
+}*/
+/*
+div .tablecell1 {
+	float: left;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+div .tablecell2 {
+	float: right;
+	padding-left: 50px;
+	padding-right: 50px;
+}*/

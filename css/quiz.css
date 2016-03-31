@@ -1,0 +1,39 @@
+div .container {
+	width: 98%;
+	margin: 1%;
+}
+
+table {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+
+tr, td {
+	text-align: center;
+	vertical-align: top;
+}
+
+table .quiz tr td:first-child {
+	text-align: right;
+	width: 40%;
+}
+
+table .quiz tr td:nth-child(2) {
+	text-align: left;
+	width: 60%;
+}
+
+/*
+table {
+	width: 100%;
+	text-align: center;
+}
+
+div {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-left: auto;
+	margin-right: auto;
+}*/

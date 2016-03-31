@@ -1,0 +1,13 @@
+.strike {
+	text-decoration: line-through;
+	color: red;
+/*	font-size: 30px;*/
+}
+
+.green {
+	color: green;
+	font-size: 200%;
+}
+div .diffandrate{
+/*	font-size: 20px;*/
+}
